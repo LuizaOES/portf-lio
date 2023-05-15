@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html Lang="en">
+
+<head>
+    </style>
+    <!-- Boorstrap 4 -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Porfólio Luiza Oliveira</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/e787fc2c3a.js" crossorigin="anonymous"></script>
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/headers/">
+   <!-- makes responsive -->
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <!-- including bootstrap css libraries -->
+   <link rel="stylesheet"
+   href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+   <!-- including bootstrap JavaScript libraries -->
+   <script
+   src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+   <!-- including bootstrap Popper libraries -->
+   <script
+   src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+   <!-- including bootstrap libraries -->
+   <script
+   src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <!-- Favicons -->
+<link rel="apple-touch-icon" href="/docs/5.0/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+<link rel="icon" href="/docs/5.0/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/docs/5.0/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="manifest" href="/docs/5.0/assets/img/favicons/manifest.json">
+<link rel="mask-icon" href="/docs/5.0/assets/img/favicons/safari-pinned-tab.svg" color="#7952b3">
+<link rel="icon" href="/docs/5.0/assets/img/favicons/favicon.ico">
+<meta name="theme-color" content="#7952b3">
+
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="headers.css" rel="stylesheet">
+
+    <!-- Definições de estilo, cor e alinhamento -->
+    <style>
+      body{
+        background-color: #83b168;
+      }
+
+      .textoBranco{
+        color: whitesmoke;
+      }
+
+      .fundoHeader{
+        background-image: url('https://i.imgur.com/a0WCubP.png');
+      }
+
+      .fundoCasas{
+        background-image: url('https://i.imgur.com/aBPorUK.png');
+      }
+
+      .fundoAptos{
+        background-image: url('https://i.imgur.com/fLDhShF.png');
+      }
+    </style>
+</head>
+
+<body>
+        <main>
+          <div class="container py-4">
+            <header class="pb-3 mb-4 border-bottom">
+              <a href="/" class="d-flex align-items-center text-dark text-decoration-none textoBranco">
+                <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" fill="currentColor" class="bi bi-house-heart-fill textoBranco" viewBox="0 0 16 16">
+                  <path d="M7.293 1.5a1 1 0 0 1 1.414 0L11 3.793V2.5a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v3.293l2.354 2.353a.5.5 0 0 1-.708.707L8 2.207 1.354 8.853a.5.5 0 1 1-.708-.707L7.293 1.5Z"/>
+                  <path d="m14 9.293-6-6-6 6V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9.293Zm-6-.811c1.664-1.673 5.825 1.254 0 5.018-5.825-3.764-1.664-6.691 0-5.018Z"/>
+                </svg>
+                <span class="display-5 fw-bold textoBranco"><br></br></span>
+              </a>
+            </header>
+        
+            <div class="p-5 mb-4 bg-light rounded-3 fundoHeader">
+              <div class="container-fluid py-5">
+                <h1 class="display-5 fw-bold textoBranco">IMOBX</h1>
+                <p class="col-md-8 fs-4 textoBranco">Atendimento personalizado: tire todas as suas dúvidas com um de nossos corretores e encontre o lar perfeito!</p>
+                <button class="btn btn-light" type="button">Conferir</button>
+              </div>
+            </div>
+        
+            <div class="row align-items-md-stretch">
+              <div class="col-md-6">
+                <div class="h-100 p-5 text-white fundoCasas rounded-3">
+                  <h2>Casas</h2>
+                  <p>Encontre a casa perfeita para você!</p>
+                  <button class="btn btn-light" type="button">Conferir</button>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="h-100 p-5 fundoAptos border rounded-3">
+                  <h2>Apartamentos</h2>
+                  <p>Encontre o apartamento perfeito para você!</p>
+                  <button class="btn btn-light" type="button">Conferir</button>
+                </div>
+              </div>
+            </div>
+        
+            <footer class="pt-3 mt-4 border-top textoBranco">
+              Portfólio de Luiza Oliveira
+            </footer>
+          </div>
+        </main>
+        
+        
+            
+          
+        
+</body>
+
+</html>
